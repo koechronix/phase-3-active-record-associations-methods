@@ -96,7 +96,8 @@ play around with our code using the console task we wrote for you in the
 `Rakefile`. Run the migrations (if you haven't already):
 
 ```console
-$ bundle exec rake db:migrate
+$ 
+
 ```
 
 Then seed the database:
